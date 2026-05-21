@@ -6,12 +6,15 @@ Search for books to add to the library:
 
 Uses open library api to search for books 
 
-keep track of books
+<----------------------------------------------------------------------->
+
+keep track of books:
 
 <img width="248" height="500" alt="library" src="https://github.com/user-attachments/assets/0595767a-f154-48a5-bcb7-a46c24b29785" />
 
+<----------------------------------------------------------------------->
 
-add a custom book if the openlibrary api doesnt have the book you want
+add a custom book if the openlibrary api doesnt have the book you want:
 
 <img width="245" height="500" alt="edit" src="https://github.com/user-attachments/assets/f0885e1a-6f9d-4213-87b5-c6d710103815" />
 
